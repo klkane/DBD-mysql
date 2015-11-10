@@ -14,3 +14,4 @@ mysql.xsi
 mysql.bs
 .mailmap
 .travis.yml
+appveyor.yml
